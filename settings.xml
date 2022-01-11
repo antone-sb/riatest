@@ -7,7 +7,7 @@
   <con:properties>
     <con:property encrypted="false">
       <con:name>password</con:name>
-      <con:value>local</con:value>
+      <con:value>123</con:value>
     </con:property>
     <con:property encrypted="true">
       <con:name>secret</con:name>
