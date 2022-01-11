@@ -7,7 +7,7 @@
   <con:properties>
     <con:property encrypted="false">
       <con:name>password</con:name>
-      <con:value>remote</con:value>
+      <con:value>remoteupd</con:value>
     </con:property>
     <con:property encrypted="true">
       <con:name>secret</con:name>
