@@ -14,6 +14,10 @@
       <con:value xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
       <con:encryptedContent>VUpCNEtUc1BkZVBsaVpGS09lRnllZytFbjNDeUtaUEhYVUNpVXRNaGNFT1RNZHgrbkcyNnBYV04rWTRFdXYreVBZQWhna3Nhdy8zZQ0KbEFzcmF2NHMzeUZBd1BPTmZBZE1CVkI2cWRyVzQyQnQzVS9kcElyUkxRPT0NCg==</con:encryptedContent>
     </con:property>
+    <con:property encrypted="false">
+      <con:name>newpassword</con:name>
+      <con:value>456</con:value>
+    </con:property>    
   </con:properties>
   <con:wssContainer/>
   <con:databaseConnectionContainer/>
