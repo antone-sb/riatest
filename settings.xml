@@ -16,7 +16,7 @@
     </con:property>
     <con:property encrypted="false">
       <con:name>newpassword</con:name>
-      <con:value>456</con:value>
+      <con:value>remote</con:value>
     </con:property>    
   </con:properties>
   <con:wssContainer/>
